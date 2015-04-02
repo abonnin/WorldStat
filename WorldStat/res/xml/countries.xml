@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<countries continent='Antarctica' version='1'>
+<country>
+  <id>12</id>
+  <name>Antarctica</name>
+</country>
+<country>
+  <id>35</id>
+  <name>Bouvet Island</name>
+
+</country>
+<country>
+  <id>13</id>
+  <name>French Southern territories</name>
+</country>
+<country>
+  <id>94</id>
+  <name>Heard Island and McDonald Islands</name>
+</country>
+</countries>
