@@ -26,7 +26,7 @@ public class WorldStatsActivity extends Activity implements
 	// 10.0.2.2 : pour atteindre une ressource sur la machine hôte de l'AVD
 	// private static final String URL_XMLRESSOURCE =
 	// "http://192.168.0.3/projects/World2/xmlCountries.php?continent=";
-	private static final String URL_XMLRESSOURCE = "http://192.168.1.21/World2/xmlCountries.php?continent=";
+	private static final String URL_XMLRESSOURCE = "http://10.0.2.2/World2/xmlCountries.php?continent=";
 
 	private Spinner spinContinents;
 	private ListView listViewPays;
